@@ -34,7 +34,7 @@ Crea un entorno virtual mediante ``venv``
 
 Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno virtual y se ha aislado del resto de tu máquina.
 
-![image](https://user-images.githubusercontent.com/9124597/153076991-25e857c5-a910-4d54-80b9-47fce1b62147.png)
+![image](https://github.com/AndresMtzF/Katas-Python-Onboarding-LaunchX/blob/main/images/creacion_env.png)
 
 ## Instalar una biblioteca
 
@@ -66,6 +66,7 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     python-dateutil==2.8.2
     six==1.16.0
     ```
+    ![image](https://github.com/AndresMtzF/Katas-Python-Onboarding-LaunchX/blob/main/images/deactivate_env.png)
 
 ### Desactivar un entorno virtual
 
@@ -80,12 +81,3 @@ Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
-
-Curso Propedútico de Python para Launch X - Innovacción Virtual.
-
-Material desarrollado con base en los contenidos de MSLearn y la metáfora de LaunchX, traducción e implementación por: Fernanda Ochoa - Learning Producer de LaunchX.
-
-Redes:
-* GitHub: [FernandaOchoa](https://github.com/FernandaOchoa)
-* Twitter: [@imonsh](https://twitter.com/imonsh)
-* Instagram: [fherz8a](https://www.instagram.com/fherz8a/)
